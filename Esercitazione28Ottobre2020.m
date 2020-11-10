@@ -51,7 +51,9 @@ P = prod (A, 'all');
 % 1. separare la radice dell’equazione non lineare associata al problema usando il metodo della tabulazione.
 % 2. stampare su un’unica riga il messaggio l'estremo inferiore dell’intervallo di separazione e seguito dal valore determinato.
 % 3. stampare su un’unica riga il messaggio l'estremo superiore dell’intervallo di separazione e seguito dal valore determinato.
-% 4. sulla stessa finestra grafica, tracciare il grafico della funzione di cui si cerca lo zero e dell asse delle ascisse, usando tratti di linea e colori distinti. Il grafico deve contenere anche gli estremi dell intervallo di separazione determinato --- si usi un puntino nero come marcatore di punto di dimensione 5. Il grafico deve essere completo    di etichette per gli assi, titolo e legenda.            
+% 4. sulla stessa finestra grafica, tracciare il grafico della funzione di cui si cerca lo zero e dell asse delle ascisse, usando tratti di linea e colori distinti.
+%    Il grafico deve contenere anche gli estremi dell intervallo di separazione determinato --- si usi un puntino nero come marcatore di punto di dimensione 5.
+%    Il grafico deve essere completo di etichette per gli assi, titolo e legenda.            
 % 5. salvare la figura nel file figuraesercizio2.png5.
 
 u = 2510; g = 9.81; M_0 = 2.8e+06; m = 13.3e+3; a = 335; prec = 1e-3;
